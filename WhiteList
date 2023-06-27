@@ -1,4 +1,4 @@
-local I = {
+local SInfo_ = {
 		WhiteList = {
 			{"discounter_forger", 2};
 			{"Depzs_1", 2};
@@ -11,3 +11,4 @@ local I = {
 			["UI1"] = 4612384434;
 		}
 	}
+	return SInfo_
