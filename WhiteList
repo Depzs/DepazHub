@@ -2,6 +2,8 @@ local SInfo_ = {
 		WhiteList = {
 			{"discounter_forger", 2};
 			{"Depzs_1", 2};
+			{"Depzs_2", 2};
+			{"JANJITVHS_2", 2};
 		};
 		Rank = {
 			[1] = "Free";
