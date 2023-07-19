@@ -4,6 +4,7 @@ local SInfo_ = {
 			{"Depzs_1", 2};
 			{"Depzs_2", 2};
 			{"JANJITVHS_2", 2};
+			{"Mayu_Test", 2};
 		};
 		Rank = {
 			[1] = "Free";
